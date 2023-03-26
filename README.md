@@ -26,4 +26,4 @@ Los apartados 2 y 3 tienen el mismo resultado porque el puntero tiene almacenado
 
 _¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué?_
 
-Obtengo la dirección de memoria del puntero. No es igual a los anteriores porque estoy hablando del lugar que ocupa en la memoria la variable 'puntero', no de la dirección de memoria a la que apunta.
+Obtengo la dirección de memoria del puntero. No es igual a los anteriores porque estoy hablando del lugar que ocupa en la memoria la variable 'puntero', no de la dirección de memoria a la que apunta. 
