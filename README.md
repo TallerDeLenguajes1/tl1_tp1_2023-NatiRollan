@@ -15,3 +15,7 @@ El archivo se debe agregar al repositorio cuando se inicia el proyecto, antes de
     3. Creo un archivo **.gitignore**, vacio, en la raiz del proyecto con el comando 'touch .gitignore'.
     4. Dentro del archivo coloco texto plano, con todas las carpetas que quiero que Git simplemente ignore, así como los archivos en líneas separadas. En este caso agrego la línia **.txt**.
     5. Guardo y cierro el archivo.
+
+## Punto 2.3c
+
+Los archivos .exe no hacen falta que esten.
