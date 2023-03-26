@@ -19,3 +19,11 @@ El archivo se debe agregar al repositorio cuando se inicia el proyecto, antes de
 ## Punto 2.3c
 
 Los archivos .exe no hacen falta que esten.
+
+## Punto 2.3g
+
+Los apartados 2 y 3 tienen el mismo resultado porque el puntero tiene almacenado la dirección de memoria de la variable a la cual apunta.
+
+_¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué?_
+
+Obtengo la dirección de memoria del puntero. No es igual a los anteriores porque estoy hablando del lugar que ocupa en la memoria la variable 'puntero', no de la dirección de memoria a la que apunta.
